@@ -1,5 +1,5 @@
 {
-   "name": "puppeteer-tutorial",
+   "name": "anireads-api",
    "version": "1.0.0",
    "description": "",
    "main": "server.js",
@@ -16,7 +16,6 @@
       "axios": "^1.7.7",
       "cheerio": "^1.0.0",
       "cors": "^2.8.5",
-      "descramble-image": "^1.0.2",
       "express": "^4.21.0"
    },
    "devDependencies": {
